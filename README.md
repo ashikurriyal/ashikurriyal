@@ -17,3 +17,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikurriyal&show_icons=true&locale=en" alt="ashikurriyal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&" alt="ashikurriyal" /></p>
+###
+
+<h1 align="center">Streak & Stats</h1>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&" alt="GitHub Streak" /></a>
+</div>
