@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  [<img height="500" src="https://i.ibb.co/ygczbKM/nzamanraz-gmail-com.png"  />](https://i.ibb.co/9Gb91M3/Github-Banner.png)
+</div>
 <!--
 **ashikurriyal/ashikurriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
