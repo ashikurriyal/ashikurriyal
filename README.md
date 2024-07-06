@@ -12,8 +12,19 @@
 
 ## :mailbox: Reach me out
 <br />
-[<p align="center"><img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/LinkedinCard.png">](www.linkedin.com/in/riyalashikur)[<img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/FacebookCard.png">](https://www.facebook.com/riyalashikur/)[<img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/DiscordCard.png"> </p>](https://discord.gg/ACgmeW8dFz)
+<p align="center">
+    <a href="https://www.linkedin.com/in/riyalashikur" target="_blank">
+        <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/LinkedinCard.png">
+    </a>
+    <a href="https://www.facebook.com/riyalashikur/" target="_blank">
+        <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/FacebookCard.png">
+    </a>
+    <a href="https://discord.gg/ACgmeW8dFz" target="_blank">
+        <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/DiscordCard.png">
+    </a>
+</p>
 <br />
+
 
 ## :computer: Technologies that I know
 
