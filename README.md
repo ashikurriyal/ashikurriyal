@@ -10,6 +10,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak" />
 </p>
 
+## :mailbox: Reach me out
+<br />
+[<p align="center"><img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/LinkedinCard.png">](www.linkedin.com/in/riyalashikur)[<img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/FacebookCard.png">](https://www.facebook.com/riyalashikur/)[<img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/DiscordCard.png"> </p>](https://discord.gg/ACgmeW8dFz)
+<br />
+
 ## :computer: Technologies that I know
 
 <br>
