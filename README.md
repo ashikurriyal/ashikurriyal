@@ -27,7 +27,7 @@
 
 
 
-## :computer: Technologies that I know
+## :computer: Technologies that I learned
 
 <br>
 <p align="center">
@@ -49,8 +49,8 @@
 
 </p><br/>
 
-<h1 align="center">Streak & Stats</h1>
+<!--- <h1 align="center">Streak & Stats</h1>
 <div align="center">
   <a href="https://git.io/streak-stats"></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikurriyal&show_icons=true&locale=en" alt="ashikurriyal" />
-</div>
+</div> -->
