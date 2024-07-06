@@ -13,10 +13,10 @@
 ## :mailbox: Reach me out
 <br />
 <p align="center">
-    <a href="https://www.linkedin.com/in/riyalashikur" target="_blank" style="margin-right: 15px;">
+    <a href="https://www.linkedin.com/in/riyalashikur" target="_blank" style="margin-right: 150px;">
         <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/LinkedinCard.png">
     </a>
-    <a href="https://www.facebook.com/riyalashikur/" target="_blank" style="margin-right: 15px;">
+    <a href="https://www.facebook.com/riyalashikur/" target="_blank" style="margin-right: 150px;">
         <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/FacebookCard.png">
     </a>
     <a href="https://discord.gg/ACgmeW8dFz" target="_blank">
