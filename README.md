@@ -46,7 +46,7 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0097EE&sideLabels=57ffdc&currStreakNum=0097EE&ring=0097EE&currStreakLabel=0097EE&sideNums=57ffdc" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=EE0097&sideLabels=57ffdc&currStreakNum=EE0097&ring=EE0097&currStreakLabel=EE0097&sideNums=57ffdc" alt="GitHub Streak" />
 </p>
 
 <!--- <h1 align="center">Streak & Stats</h1>
