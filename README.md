@@ -2,6 +2,13 @@
 <div align="center">
   <img height="500" src="https://i.ibb.co/9Gb91M3/Github-Banner.png"  />
 </div>
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak" />
+</p>
 - 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **riyalashikur@gmail.com**
@@ -19,6 +26,6 @@
 
 <h1 align="center">Streak & Stats</h1>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikurriyal&show_icons=true&locale=en" alt="ashikurriyal" />
 </div>
