@@ -49,8 +49,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=EE0097&sideLabels=57ffdc&currStreakNum=EE0097&ring=EE0097&currStreakLabel=EE0097&sideNums=57ffdc" alt="GitHub Streak" />
 </p>
 
-<!--- <h1 align="center">Streak & Stats</h1>
-<div align="center">
-  <a href="https://git.io/streak-stats"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikurriyal&show_icons=true&locale=en" alt="ashikurriyal" />
-</div> -->
+
