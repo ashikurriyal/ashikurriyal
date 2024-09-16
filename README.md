@@ -40,6 +40,7 @@
 </p>
 <p align="center">
 <img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/redux.png"/>
+<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/typescript.png"/>
 </p><br/>
 
 ## :chart_with_upwards_trend: Current Stats
