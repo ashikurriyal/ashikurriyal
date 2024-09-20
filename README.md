@@ -52,5 +52,5 @@
 </p> <br/>
 
 ## :eyes: Current overview
-
+### 🌱 I’m exploring - Redux, Typescript & Next.js 
 
