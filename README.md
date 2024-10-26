@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="500" src="https://i.ibb.co/9Gb91M3/Github-Banner.png"  />
+  <img height="500" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/Github_Banner_riyalashikur.png"  />
 </div>
 
 ## :mailbox: Reach me out
