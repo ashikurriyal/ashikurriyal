@@ -42,6 +42,7 @@
 <img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/redux.png"/>
 <img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/typescript.png"/>
 <img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/nextjs.png"/>
+<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/postgreSQL.png"/>
 </p><br/>
 
 ## :chart_with_upwards_trend: Current Stats
