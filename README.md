@@ -47,10 +47,9 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurriyal&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=EE0097&sideLabels=57ffdc&currStreakNum=EE0097&ring=EE0097&currStreakLabel=EE0097&sideNums=57ffdc" alt="GitHub Streak" />
-</p> <br/>
+  <img src="https://streak-stats.demolab.com/?user=ashikurriyal&theme=default&hide_border=true&background=0D1117&stroke=0D1117&ring=EE0097&fire=EE0097&currStreakNum=EE0097&currStreakLabel=EE0097&sideLabels=57ffdc&sideNums=57ffdc&dates=57ffdc" alt="GitHub Streak" />
+</p>Ï
 
 ## :eyes: Current overview
 ### 🌱 I’m exploring - Redux, Typescript & Next.js 
