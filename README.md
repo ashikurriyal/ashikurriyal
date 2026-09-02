@@ -52,5 +52,5 @@
 </p>Ï
 
 ## :eyes: Current overview
-### 🌱 I’m exploring - Redux, Typescript & Next.js 
+### 🌱 I’m exploring - Prisma ORM & NestJS 
 
