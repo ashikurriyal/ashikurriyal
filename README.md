@@ -52,5 +52,5 @@
 </p>Ï
 
 ## :eyes: Current overview
-### 🌱 I’m exploring - Prisma ORM
+### 🌱 I’m exploring - Prisma ORM & NestJS
 
