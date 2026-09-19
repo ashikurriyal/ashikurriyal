@@ -1,7 +1,8 @@
 
-<div align="center">
-  <img height="500" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/Github_Banner_riyalashikur.png"  />
-</div>
+
+  <a href="https://www.linkedin.com/in/ashikurriyal/">
+  <img src="https://raw.githubusercontent.com/ashikurriyal/ashikurriyal/main/cover.svg" />
+</a>
 
 ## :mailbox: Reach me out
 <br />
