@@ -1,57 +1,76 @@
+<div align="center">
 
-
-  <a href="https://www.linkedin.com/in/ashikurriyal/">
-  <img src="https://raw.githubusercontent.com/ashikurriyal/ashikurriyal/main/cover.svg" />
+<a href="https://www.linkedin.com/in/ashikurriyal/">
+  <img src="cover/RiyalFull.svg" width="100%" alt="Ashikur Riyal" />
 </a>
 
-## :mailbox: Reach me out
-<br />
-<p align="center">
-    <a href="https://www.linkedin.com/in/riyalashikur" target="_blank" style="margin-right: 150px;">
-        <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/LinkedinCard.png">
-    </a>
-    <a href="https://www.facebook.com/riyalashikur/" target="_blank" style="margin-right: 150px;">
-        <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/FacebookCard.png">
-    </a>
-    <a href="https://discord.gg/ACgmeW8dFz" target="_blank">
-        <img height="75" src="https://github.com/ashikurriyal/ashikurriyal/blob/main/DiscordCard.png">
-    </a>
-</p>
-<br />
+</div>
 
+## :mailbox: Reach Me Out
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/riyalashikur" target="_blank">
+        <img height="75" src="socialCards/LinkedinCard.png" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/riyalashikur/" target="_blank">
+        <img height="75" src="socialCards/FacebookCard.png" alt="Facebook" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/ACgmeW8dFz" target="_blank">
+        <img height="75" src="socialCards/DiscordCard.png" alt="Discord" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## :computer: Technologies that I learned
 
 <br>
 <p align="center">
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/HTML%20(1).png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/css.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/JavaScript.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/c.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/cpp.png"/>
+<img src="technologyImages/html.png"/>
+<img src="technologyImages/css.png"/>
+<img src="technologyImages/javascript.png"/>
+<img src="technologyImages/c.png"/>
+<img src="technologyImages/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/> 
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/node.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/express.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/mongo.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/firebase.png"/>
+<img src="technologyImages/react.png"/>
+<img src="technologyImages/tailwind.png"/>
+<img src="technologyImages/node.png"/>
+<img src="technologyImages/express.png"/>
+<img src="technologyImages/mongo.png"/>
+<img src="technologyImages/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/redux.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/typescript.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/nextjs.png"/>
-<img src="https://github.com/ashikurriyal/ashikurriyal/blob/main/postgreSQL.png"/>
+<img src="technologyImages/redux.png"/>
+<img src="technologyImages/typescript.png"/>
+<img src="technologyImages/nextjs.png"/>
+<img src="technologyImages/postgresql.png"/>
 </p><br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashikurriyal&theme=default&hide_border=true&background=0D1117&stroke=0D1117&ring=EE0097&fire=EE0097&currStreakNum=EE0097&currStreakLabel=EE0097&sideLabels=57ffdc&sideNums=57ffdc&dates=57ffdc" alt="GitHub Streak" />
-</p>Ï
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=ashikurriyal&theme=default&hide_border=true&background=0D1117&stroke=0D1117&ring=EE0097&fire=EE0097&currStreakNum=EE0097&currStreakLabel=EE0097&sideLabels=57ffdc&sideNums=57ffdc&dates=57ffdc" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ashikurriyal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EE0097&icon_color=EE0097&text_color=57ffdc" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurriyal&layout=compact&hide_border=true&bg_color=0D1117&title_color=EE0097&text_color=57ffdc" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-## :eyes: Current overview
-### 🌱 I’m exploring - Prisma ORM & NestJS & Claude Code CLI 
+## :eyes: Current Overview
 
+### 🌱 I'm exploring - Prisma ORM & NestJS & Claude Code CLI
