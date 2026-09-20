@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ashikurriyal/">
-  <img src="cover/RiyalFull.svg" width="100%" alt="Ashikur Riyal" />
+  <img src="cover/RiyalCrossingWave.svg" width="100%" alt="Ashikur Riyal" />
 </a>
 
 </div>

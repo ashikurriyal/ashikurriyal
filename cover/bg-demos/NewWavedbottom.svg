@@ -1,0 +1,230 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1920" height="1080" fill="#878787" />
+    <g id="Cover" clip-path="url(#clip0_0_1)">
+        <rect width="1920" height="1080" fill="#0D1117" />
+        <defs>
+            <radialGradient id="bgGlowCyan" cx="90" cy="70" r="420" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.35" />
+                <stop offset="100%" stop-color="#22D3EE" stop-opacity="0" />
+            </radialGradient>
+            <radialGradient id="bgGlowSky" cx="1870" cy="260" r="460" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35" />
+                <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+            </radialGradient>
+            <radialGradient id="bgGlowTeal" cx="1830" cy="1040" r="440" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#0D9488" stop-opacity="0.32" />
+                <stop offset="100%" stop-color="#0D9488" stop-opacity="0" />
+            </radialGradient>
+            <filter id="bgAmbientBlur" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+                <feGaussianBlur stdDeviation="50" />
+            </filter>
+            <filter id="waveBlurFar" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+                <feGaussianBlur stdDeviation="30" />
+            </filter>
+            <filter id="waveBlurMid" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+                <feGaussianBlur stdDeviation="14" />
+            </filter>
+            <linearGradient id="waveFillFar" x1="960" y1="580" x2="960" y2="1080" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#0F766E" stop-opacity="0.30" />
+                <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+            </linearGradient>
+            <linearGradient id="waveFillMid" x1="960" y1="700" x2="960" y2="1080" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#0891B2" stop-opacity="0.32" />
+                <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+            </linearGradient>
+            <linearGradient id="waveFillNear" x1="960" y1="825" x2="960" y2="1080" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.38" />
+                <stop offset="55%" stop-color="#0E7490" stop-opacity="0.20" />
+                <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+            </linearGradient>
+            <linearGradient id="waveCrestStroke" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#22D3EE" />
+                <stop offset="50%" stop-color="#2DD4BF" />
+                <stop offset="100%" stop-color="#38BDF8" />
+            </linearGradient>
+        </defs>
+
+        <!-- Background layer architecture (back to front): ambient glow + stars sit in the dark
+             upper field, then 3 wave layers rise from the bottom edge toward mid-canvas and
+             recede behind the card, so the card reads as floating above the nearest wave crest. -->
+
+        <g id="neon-light" style="mix-blend-mode:screen" filter="url(#bgAmbientBlur)">
+            <circle cx="90" cy="70" r="420" fill="url(#bgGlowCyan)" />
+            <circle cx="1870" cy="260" r="460" fill="url(#bgGlowSky)" />
+            <circle cx="1830" cy="1040" r="440" fill="url(#bgGlowTeal)" />
+        </g>
+
+        <g id="Stars">
+            <circle cx="140" cy="150" r="1.8" fill="#22D3EE" opacity="0.35" />
+            <circle cx="330" cy="120" r="1.4" fill="#38BDF8" opacity="0.28" />
+            <circle cx="620" cy="90" r="1.6" fill="#2DD4BF" opacity="0.3" />
+            <circle cx="960" cy="130" r="1.4" fill="#22D3EE" opacity="0.24" />
+            <circle cx="1300" cy="95" r="1.6" fill="#38BDF8" opacity="0.3" />
+            <circle cx="1620" cy="140" r="1.4" fill="#2DD4BF" opacity="0.26" />
+            <circle cx="1800" cy="300" r="1.8" fill="#22D3EE" opacity="0.3" />
+            <circle cx="90" cy="400" r="1.4" fill="#38BDF8" opacity="0.24" />
+            <circle cx="1850" cy="500" r="1.6" fill="#2DD4BF" opacity="0.26" />
+            <circle cx="60" cy="250" r="1.4" fill="#22D3EE" opacity="0.22" />
+        </g>
+
+        <g id="Wave Layer 1 - Far" style="mix-blend-mode:screen" filter="url(#waveBlurFar)">
+            <path fill="url(#waveFillFar)"
+                d="M0,660 C220,590 460,720 700,650 C940,580 1180,690 1420,620 C1620,565 1800,610 1920,580 L1920,1080 L0,1080 Z" />
+        </g>
+
+        <g id="Wave Layer 2 - Mid" style="mix-blend-mode:screen" filter="url(#waveBlurMid)">
+            <path fill="url(#waveFillMid)"
+                d="M0,800 C250,730 520,850 800,770 C1060,695 1320,810 1580,740 C1740,700 1840,745 1920,720 L1920,1080 L0,1080 Z" />
+        </g>
+
+        <g id="Wave Layer 3 - Near">
+            <path fill="url(#waveFillNear)"
+                d="M0,940 C280,860 560,985 860,905 C1140,825 1420,950 1680,880 C1800,855 1860,895 1920,875 L1920,1080 L0,1080 Z" />
+            <path fill="none" stroke="url(#waveCrestStroke)" stroke-width="2.5" stroke-opacity="0.5" stroke-linecap="round"
+                d="M0,940 C280,860 560,985 860,905 C1140,825 1420,950 1680,880 C1800,855 1860,895 1920,875" />
+        </g>
+
+        <g id="Group 6">
+            <g id="Color" filter="url(#filter1_b_0_1)">
+                <rect x="431.459" y="231" width="1057.08" height="619" rx="25" fill="url(#paint138_linear_0_1)" />
+                <rect x="432.459" y="232" width="1055.08" height="617" rx="24" stroke="url(#paint139_linear_0_1)"
+                    stroke-opacity="0.8" stroke-width="2" />
+                <rect x="432.459" y="232" width="1055.08" height="617" rx="24" stroke="url(#paint140_linear_0_1)"
+                    stroke-opacity="0.8" stroke-width="2" />
+                <rect x="432.459" y="232" width="1055.08" height="617" rx="24" stroke="url(#paint141_linear_0_1)"
+                    stroke-opacity="0.8" stroke-width="2" />
+            </g>
+            <g id="MOLLA ASHIKUR RAHMAN" style="mix-blend-mode:overlay">
+                <text x="471" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42"
+                    font-weight="800" letter-spacing="1.5" fill="white">MOLLA ASHIKUR RAHMAN</text>
+            </g>
+            <g id="Group 4">
+                <g id="Frame" style="mix-blend-mode:overlay" clip-path="url(#clip1_0_1)" transform="translate(-67.61,0)">
+                    <path id="Vector"
+                        d="M1418.11 789.272C1420.97 789.272 1423.29 786.954 1423.29 784.094C1423.29 781.234 1420.97 778.916 1418.11 778.916C1415.25 778.916 1412.93 781.234 1412.93 784.094C1412.93 786.954 1415.25 789.272 1418.11 789.272Z"
+                        fill="white" />
+                    <g id="Group">
+                        <path id="Vector_2"
+                            d="M1418.11 794.703C1433.47 794.703 1445.92 789.953 1445.92 784.094C1445.92 778.235 1433.47 773.485 1418.11 773.485C1402.75 773.485 1390.3 778.235 1390.3 784.094C1390.3 789.953 1402.75 794.703 1418.11 794.703Z"
+                            stroke="white" stroke-width="2" />
+                        <path id="Vector_3"
+                            d="M1408.92 789.399C1416.6 802.689 1426.94 811.087 1432.02 808.157C1437.1 805.228 1434.99 792.079 1427.31 778.789C1419.63 765.499 1409.28 757.101 1404.21 760.03C1399.13 762.96 1401.24 776.109 1408.92 789.399Z"
+                            stroke="white" stroke-width="2" />
+                        <path id="Vector_4"
+                            d="M1408.92 778.789C1401.24 792.079 1399.13 805.228 1404.21 808.158C1409.28 811.087 1419.63 802.689 1427.31 789.399C1434.99 776.109 1437.1 762.96 1432.02 760.031C1426.94 757.101 1416.6 765.5 1408.92 778.789Z"
+                            stroke="white" stroke-width="2" />
+                    </g>
+                </g>
+                <g id="Frame_2" style="mix-blend-mode:overlay">
+                    <path id="Vector_5" transform="translate(1255.5,757) scale(2.25)"
+                        d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z"
+                        fill="white" />
+                </g>
+                <g id="Frame_3" style="mix-blend-mode:overlay">
+                    <path id="Vector_10" transform="translate(1391.5,757) scale(2.25)"
+                        d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z"
+                        fill="white" />
+                </g>
+            </g>
+            <g id="Group 3">
+                <g id="Frontend Engineer" style="mix-blend-mode:overlay">
+                    <text x="474" y="748" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30"
+                        letter-spacing="0.5" fill="white">Frontend Engineer</text>
+                </g>
+                <g id="Group 2">
+                    <g id="Group_2" style="mix-blend-mode:overlay" transform="translate(82.42,128.14) scale(0.8266)">
+                        <path id="Vector_7"
+                            d="M506.411 790.178V808.153C506.411 809.321 505.465 810.267 504.297 810.267H499.362V798.285L490.904 804.63L482.446 798.285V810.268H477.511C477.233 810.268 476.958 810.213 476.701 810.107C476.445 810.001 476.212 809.845 476.015 809.648C475.819 809.452 475.663 809.219 475.557 808.962C475.451 808.705 475.396 808.43 475.397 808.153V790.178C475.397 787.564 478.38 786.072 480.471 787.64L482.446 789.123L490.904 795.465L499.362 789.12L501.336 787.64C503.426 786.073 506.411 787.564 506.411 790.178Z"
+                            fill="white" />
+                    </g>
+                    <g id="Email" style="mix-blend-mode:overlay">
+                        <text x="516" y="795" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23"
+                            letter-spacing="0.3" fill="white">riyalashikur@gmail.com</text>
+                    </g>
+                    <g id="Icon/Font Awesome Free/Brands/L/linkedin" style="mix-blend-mode:overlay"
+                        transform="translate(34.98,149.01) scale(0.8442)">
+                        <path id="Vector_9"
+                            d="M543.703 786.369H523.39C522.459 786.369 521.703 787.136 521.703 788.077V808.353C521.703 809.294 522.459 810.061 523.39 810.061H543.703C544.633 810.061 545.395 809.294 545.395 808.353V788.077C545.395 787.136 544.633 786.369 543.703 786.369ZM528.864 806.676H525.352V795.37H528.869V806.676H528.864ZM527.108 793.826C525.981 793.826 525.072 792.911 525.072 791.79C525.072 790.669 525.981 789.754 527.108 789.754C528.229 789.754 529.144 790.669 529.144 791.79C529.144 792.916 528.234 793.826 527.108 793.826V793.826ZM542.026 806.676H538.515V801.176C538.515 799.865 538.488 798.178 536.69 798.178C534.86 798.178 534.58 799.606 534.58 801.081V806.676H531.069V795.37H534.437V796.914H534.485C534.956 796.026 536.103 795.09 537.811 795.09C541.365 795.09 542.026 797.432 542.026 800.478V806.676V806.676Z"
+                            fill="white" />
+                    </g>
+                    <g id="LinkedIn URL" style="mix-blend-mode:overlay">
+                        <text x="511" y="830" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23"
+                            letter-spacing="0.3" fill="white">www.linkedin.com/in/riyalashikur</text>
+                    </g>
+                </g>
+            </g>
+            <g id="Mask group">
+                <mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="431" y="231" width="1058"
+                    height="619">
+                    <rect id="Color_2" x="431.459" y="231" width="1057.08" height="619" rx="25"
+                        fill="url(#paint142_linear_0_1)" />
+                </mask>
+                <g mask="url(#mask0_0_1)">
+                    <!-- Option A: Typographic mark (Futura Bold "R" glyph outline) — kept for later use, do not delete -->
+                    <path id="logo" transform="translate(1234.19,575.00) scale(0.5040,-0.5040)"
+                        d="M275 417H312Q370 417 401.0 441.0Q432 465 432 510Q432 555 401.0 579.0Q370 603 312 603H275ZM706 0H462L275 290V0H79V754H384Q447 754 494.0 735.5Q541 717 571.5 685.0Q602 653 617.5 611.0Q633 569 633 521Q633 435 591.5 381.5Q550 328 469 309Z"
+                        stroke="white" stroke-opacity="0.3" stroke-width="5" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <filter id="filter1_b_0_1" x="411.459" y="211" width="1097.08" height="659" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feGaussianBlur in="BackgroundImageFix" stdDeviation="10" />
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_0_1" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_0_1" result="shape" />
+        </filter>
+        <linearGradient id="paint138_linear_0_1" x1="584.091" y1="231" x2="1306.35" y2="845.051"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="white" stop-opacity="0.4" />
+            <stop offset="1" stop-color="white" stop-opacity="0.1" />
+        </linearGradient>
+        <linearGradient id="paint139_linear_0_1" x1="443.67" y1="236.144" x2="846.728" y2="546.298"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="white" />
+            <stop offset="1" stop-color="white" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="paint140_linear_0_1" x1="453.264" y1="850" x2="683.58" y2="648.045"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF00F6" stop-opacity="0.3" />
+            <stop offset="1" stop-color="#FF1CF7" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="paint141_linear_0_1" x1="1473.71" y1="586.796" x2="612.188" y2="419.307"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00F0FF" stop-opacity="0.3" />
+            <stop offset="1" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="paint142_linear_0_1" x1="584.091" y1="231" x2="1306.35" y2="845.051"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="white" stop-opacity="0.4" />
+            <stop offset="1" stop-color="white" stop-opacity="0.1" />
+        </linearGradient>
+        <clipPath id="clip0_0_1">
+            <rect width="1920" height="1080" fill="white" />
+        </clipPath>
+        <clipPath id="clip1_0_1">
+            <rect width="58.1524" height="51.691" fill="white" transform="translate(1389.04 758.248)" />
+        </clipPath>
+    </defs>
+    <style>
+        @keyframes fadeInOut {
+            0% {
+                opacity: 0;
+            }
+
+            50% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0;
+            }
+        }
+
+        #neon-light {
+            animation: fadeInOut 15s ease-in-out infinite;
+        }
+    </style>
+</svg>
