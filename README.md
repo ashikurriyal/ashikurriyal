@@ -8,25 +8,11 @@
 
 ## :mailbox: Reach Me Out
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/riyalashikur" target="_blank">
-        <img width="300" src="socialCards/svg/LinkedIn.svg" alt="LinkedIn — linkedin.com/in/riyalashikur" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:riyalashikur@gmail.com">
-        <img width="300" src="socialCards/svg/Gmail.svg" alt="Gmail — riyalashikur@gmail.com" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/ACgmeW8dFz" target="_blank">
-        <img width="300" src="socialCards/svg/Discord.svg" alt="Discord — discord.gg/ACgmeW8dFz" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/riyalashikur" target="_blank"><img width="280" src="socialCards/svg/LinkedIn.svg" alt="LinkedIn — linkedin.com/in/riyalashikur" /></a>
+  <a href="mailto:riyalashikur@gmail.com"><img width="280" src="socialCards/svg/Gmail.svg" alt="Gmail — riyalashikur@gmail.com" /></a>
+  <a href="https://discord.gg/ACgmeW8dFz" target="_blank"><img width="280" src="socialCards/svg/Discord.svg" alt="Discord — discord.gg/ACgmeW8dFz" /></a>
+</p>
 
 ## :computer: Technologies that I learned
 
