@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ashikurriyal/">
+<a href="https://www.linkedin.com/in/riyalashikur" target="_blank">
   <img src="cover/FinalCovers/github-cover-v2.svg" width="100%" alt="Ashikur Riyal" />
 </a>
 
@@ -12,17 +12,17 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/riyalashikur" target="_blank">
-        <img height="75" src="socialCards/LinkedinCard.png" alt="LinkedIn" />
+        <img width="300" src="socialCards/svg/LinkedIn.svg" alt="LinkedIn — linkedin.com/in/riyalashikur" />
       </a>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/riyalashikur/" target="_blank">
-        <img height="75" src="socialCards/FacebookCard.png" alt="Facebook" />
+      <a href="mailto:riyalashikur@gmail.com">
+        <img width="300" src="socialCards/svg/Gmail.svg" alt="Gmail — riyalashikur@gmail.com" />
       </a>
     </td>
     <td align="center">
       <a href="https://discord.gg/ACgmeW8dFz" target="_blank">
-        <img height="75" src="socialCards/DiscordCard.png" alt="Discord" />
+        <img width="300" src="socialCards/svg/Discord.svg" alt="Discord — discord.gg/ACgmeW8dFz" />
       </a>
     </td>
   </tr>

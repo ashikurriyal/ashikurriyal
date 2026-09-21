@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 112" width="400" height="112" role="img" aria-labelledby="li-t">
+  <title id="li-t">LinkedIn — linkedin.com/in/riyalashikur</title>
+  <defs>
+    <linearGradient id="li-base" x1="0" y1="0" x2="400" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1621"/><stop offset="0.55" stop-color="#080D14"/><stop offset="1" stop-color="#070B11"/>
+    </linearGradient>
+    <linearGradient id="li-glassFill" x1="1" y1="1" x2="399" y2="111" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101A28" stop-opacity="0.62"/>
+      <stop offset="0.45" stop-color="#0A121C" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#060A11" stop-opacity="0.70"/>
+    </linearGradient>
+    <radialGradient id="li-glassCyan" cx="50" cy="13" r="234" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67E8F9" stop-opacity="0.16"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="li-glassSheen" x1="1" y1="1" x2="272" y2="111" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="0.32" stop-color="#FFFFFF" stop-opacity="0.028"/>
+      <stop offset="0.62" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.018"/>
+    </linearGradient>
+    <linearGradient id="li-refract" x1="1" y1="111" x2="399" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0.34" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="0.56" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="li-borderGrad" x1="1" y1="1" x2="399" y2="111" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="0.18" stop-color="#67E8F9" stop-opacity="1.00"/>
+      <stop offset="0.45" stop-color="#22D3EE" stop-opacity="0.72"/>
+      <stop offset="0.72" stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="li-traceGrad" x1="1" y1="1" x2="399" y2="111" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A5F3FC" stop-opacity="1"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="li-dividerGrad" x1="0" y1="34" x2="0" y2="78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="li-topEdge" x1="1" y1="1" x2="399" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="0.70" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="li-wave" x1="0" y1="0" x2="400" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.45"/>
+      <stop offset="0.10" stop-color="#38BDF8" stop-opacity="0.72"/>
+      <stop offset="0.22" stop-color="#67E8F9" stop-opacity="1.00"/>
+      <stop offset="0.34" stop-color="#22D3EE" stop-opacity="0.86"/>
+      <stop offset="0.52" stop-color="#0EA5E9" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0.18"/>
+    </linearGradient>
+    <radialGradient id="li-markGlow" cx="51" cy="56" r="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.18"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="li-mark" x1="30.0" y1="35.0" x2="72.0" y2="77.0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67E8F9"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="li-edgeBloom" x="-25%" y="-40%" width="150%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5"/></filter>
+    <filter id="li-traceBloom" x="-25%" y="-40%" width="150%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4"/></filter>
+    <filter id="li-dividerBloom" x="-300%" y="-40%" width="700%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2"/></filter>
+    <filter id="li-shadow" x="-20%" y="-30%" width="140%" height="170%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="9"/></filter>
+    <clipPath id="li-clip"><rect x="1" y="1" width="398" height="110" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Inter', 'Geist', 'Manrope', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .li-trace { stroke-dasharray: 110 868.23; animation: li-trace 7s linear infinite; }
+    @keyframes li-trace { to { stroke-dashoffset: -978.23; } }
+    @media (prefers-reduced-motion: reduce) { .li-trace { animation: none; opacity: 0; } }
+  </style>
+
+  <rect x="7" y="7" width="386" height="100" rx="20" fill="#000000" opacity="0.5" filter="url(#li-shadow)"/>
+  <rect x="1.8" y="1.8" width="396.4" height="108.4" rx="22" fill="none"
+        stroke="url(#li-borderGrad)" stroke-width="3.5" filter="url(#li-edgeBloom)" opacity="0.65"/>
+  <rect x="1" y="1" width="398" height="110" rx="22" fill="url(#li-base)"/>
+
+  <g clip-path="url(#li-clip)">
+    <g fill="none" stroke="url(#li-wave)" stroke-linecap="round" opacity="0.38">
+      <path d="M -30,-6 C 63,10 158,21 253,37 C 316,48 368,68 430,92" stroke-width="1.2"/>
+      <path d="M -30,-3 C 74,15 168,25 263,41 C 324,51 371,70 430,92" stroke-width="1.6"/>
+      <path d="M -30,-18 C 53,-2 147,8 244,24 C 312,35 366,54 430,78" stroke-width="1.0"/>
+    </g>
+    <rect x="1" y="1" width="398" height="110" fill="url(#li-glassFill)"/>
+    <rect x="1" y="1" width="398" height="110" fill="url(#li-glassCyan)"/>
+    <rect x="1" y="1" width="398" height="110" fill="url(#li-markGlow)"/>
+    <rect x="1" y="1" width="398" height="110" fill="url(#li-glassSheen)"/>
+    <rect x="1" y="1" width="398" height="110" fill="url(#li-refract)"/>
+    <rect x="1" y="2.2" width="398" height="1.2" fill="url(#li-topEdge)"/>
+  </g>
+
+  <rect x="1.8" y="1.8" width="396.4" height="108.4" rx="22" fill="none" stroke="url(#li-borderGrad)" stroke-width="1.6"/>
+  <rect x="4.3" y="4.3" width="389.4" height="103.4" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1"/>
+
+  <!-- traveling edge light: bloom copy then crisp, both on the same dash cycle -->
+  <rect class="li-trace" x="1" y="1" width="398" height="110" rx="22" fill="none"
+        stroke="url(#li-traceGrad)" stroke-width="5" stroke-linecap="round"
+        filter="url(#li-traceBloom)" opacity="0.6"/>
+  <rect class="li-trace" x="1" y="1" width="398" height="110" rx="22" fill="none"
+        stroke="url(#li-traceGrad)" stroke-width="2" stroke-linecap="round"/>
+
+  <g transform="translate(30.000,34.995) scale(0.093771)" fill="url(#li-mark)"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></g>
+
+  <line x1="100" y1="34" x2="100" y2="78" stroke="url(#li-dividerGrad)" stroke-width="3"
+        filter="url(#li-dividerBloom)" opacity="0.45"/>
+  <line x1="100" y1="34" x2="100" y2="78" stroke="url(#li-dividerGrad)" stroke-width="1.6"/>
+
+  <text x="122" y="50" font-size="22" font-weight="600" letter-spacing="0.2" fill="#F1F5F9">LinkedIn</text>
+  <text x="122" y="76" font-size="15" font-weight="400" letter-spacing="0.15" fill="#94A3B8">linkedin.com/in/riyalashikur</text>
+
+  <g stroke="#67E8F9" stroke-opacity="0.90" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 363.7,61.6 L 374.9,50.4"/>
+    <path d="M 367.6,50.4 L 374.9,50.4 L 374.9,57.7"/>
+  </g>
+</svg>
