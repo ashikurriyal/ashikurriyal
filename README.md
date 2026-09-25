@@ -59,4 +59,4 @@
 
 ## :eyes: Current Overview
 
-### 🌱 I'm exploring - Prisma ORM & NestJS & Claude Code CLI
+### 🌱 I'm exploring - Prisma ORM & NestJS
