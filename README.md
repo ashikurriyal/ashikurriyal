@@ -59,4 +59,4 @@
 
 ## :eyes: Current Overview
 
-### 🌱 I'm exploring - Prisma ORM
+### 🌱 I'm exploring - Prisma ORM, NEST js & AWS
