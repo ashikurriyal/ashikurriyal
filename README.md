@@ -9,9 +9,9 @@
 ## :mailbox: Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riyalashikur" target="_blank"><img width="280" src="assets/connect/linkedin.svg" alt="LinkedIn — in/riyalashikur" /></a>
-  <a href="mailto:riyalashikur@gmail.com"><img width="280" src="assets/connect/gmail.svg" alt="Email — riyalashikur@gmail.com" /></a>
-  <a href="https://discord.gg/ACgmeW8dFz" target="_blank"><img width="280" src="assets/connect/discord.svg" alt="Discord — discord.gg/ACgmeW8dFz" /></a>
+  <a href="https://www.linkedin.com/in/riyalashikur" target="_blank"><img width="272" src="assets/connect/linkedin.svg" alt="LinkedIn — in/riyalashikur" /></a>
+  <a href="mailto:riyalashikur@gmail.com"><img width="272" src="assets/connect/gmail.svg" alt="Email — riyalashikur@gmail.com" /></a>
+  <a href="https://discord.gg/ACgmeW8dFz" target="_blank"><img width="272" src="assets/connect/discord.svg" alt="Discord — discord.gg/ACgmeW8dFz" /></a>
 </p>
 
 ## :computer: Tech Stack
