@@ -16,7 +16,7 @@
 
 ## :computer: Tech Stack
 
-<h2 align="center">Languages</h2>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="assets/stack/html.svg" width="76" alt="HTML" />
   <img src="assets/stack/css.svg" width="76" alt="CSS" />
@@ -28,7 +28,7 @@
   <img src="assets/stack/go.svg" width="76" alt="Go" />
 </p>
 
-<h2 align="center">Frontend</h2>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="assets/stack/react.svg" width="76" alt="React" />
   <img src="assets/stack/nextjs.svg" width="76" alt="Next.js" />
@@ -41,7 +41,7 @@
   <img src="assets/stack/framer-motion.svg" width="76" alt="Framer Motion" />
 </p>
 
-<h2 align="center">Backend &amp; APIs</h2>
+<h3 align="center">Backend &amp; APIs</h3>
 <p align="center">
   <img src="assets/stack/nodejs.svg" width="76" alt="Node.js" />
   <img src="assets/stack/express.svg" width="76" alt="Express" />
@@ -51,7 +51,7 @@
   <img src="assets/stack/stripe.svg" width="76" alt="Stripe" />
 </p>
 
-<h2 align="center">Databases &amp; ORM</h2>
+<h3 align="center">Databases &amp; ORM</h3>
 <p align="center">
   <img src="assets/stack/postgresql.svg" width="76" alt="PostgreSQL" />
   <img src="assets/stack/mysql.svg" width="76" alt="MySQL" />
@@ -61,7 +61,7 @@
   <img src="assets/stack/firebase.svg" width="76" alt="Firebase" />
 </p>
 
-<h2 align="center">DevOps &amp; Cloud</h2>
+<h3 align="center">DevOps &amp; Cloud</h3>
 <p align="center">
   <img src="assets/stack/docker.svg" width="76" alt="Docker" />
   <img src="assets/stack/github-actions.svg" width="76" alt="GitHub Actions" />
@@ -69,7 +69,7 @@
   <img src="assets/stack/netlify.svg" width="76" alt="Netlify" />
 </p>
 
-<h2 align="center">Tools &amp; Workflow</h2>
+<h3 align="center">Tools &amp; Workflow</h3>
 <p align="center">
   <img src="assets/stack/git.svg" width="76" alt="Git" />
   <img src="assets/stack/github.svg" width="76" alt="GitHub" />
