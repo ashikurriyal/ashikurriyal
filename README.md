@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/riyalashikur" target="_blank">
-  <img src="cover/FinalCovers/github-cover-v2.svg" width="100%" alt="Ashikur Riyal" />
+  <img src="archive/readme-v1/cover/FinalCovers/github-cover-v2.svg" width="100%" alt="Ashikur Riyal" />
 </a>
 
 </div>
@@ -9,34 +9,34 @@
 ## :mailbox: Reach Me Out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riyalashikur" target="_blank"><img width="280" src="socialCards/svg/LinkedIn.svg" alt="LinkedIn — linkedin.com/in/riyalashikur" /></a>
-  <a href="mailto:riyalashikur@gmail.com"><img width="280" src="socialCards/svg/Gmail.svg" alt="Gmail — riyalashikur@gmail.com" /></a>
-  <a href="https://discord.gg/ACgmeW8dFz" target="_blank"><img width="280" src="socialCards/svg/Discord.svg" alt="Discord — discord.gg/ACgmeW8dFz" /></a>
+  <a href="https://www.linkedin.com/in/riyalashikur" target="_blank"><img width="280" src="archive/readme-v1/socialCards/svg/LinkedIn.svg" alt="LinkedIn — linkedin.com/in/riyalashikur" /></a>
+  <a href="mailto:riyalashikur@gmail.com"><img width="280" src="archive/readme-v1/socialCards/svg/Gmail.svg" alt="Gmail — riyalashikur@gmail.com" /></a>
+  <a href="https://discord.gg/ACgmeW8dFz" target="_blank"><img width="280" src="archive/readme-v1/socialCards/svg/Discord.svg" alt="Discord — discord.gg/ACgmeW8dFz" /></a>
 </p>
 
 ## :computer: Technologies that I learned
 
 <br>
 <p align="center">
-<img src="technologyImages/html.png"/>
-<img src="technologyImages/css.png"/>
-<img src="technologyImages/javascript.png"/>
-<img src="technologyImages/c.png"/>
-<img src="technologyImages/cpp.png"/>
+<img src="archive/readme-v1/technologyImages/html.png"/>
+<img src="archive/readme-v1/technologyImages/css.png"/>
+<img src="archive/readme-v1/technologyImages/javascript.png"/>
+<img src="archive/readme-v1/technologyImages/c.png"/>
+<img src="archive/readme-v1/technologyImages/cpp.png"/>
 </p>
 <p align="center">
-<img src="technologyImages/react.png"/>
-<img src="technologyImages/tailwind.png"/>
-<img src="technologyImages/node.png"/>
-<img src="technologyImages/express.png"/>
-<img src="technologyImages/mongo.png"/>
-<img src="technologyImages/firebase.png"/>
+<img src="archive/readme-v1/technologyImages/react.png"/>
+<img src="archive/readme-v1/technologyImages/tailwind.png"/>
+<img src="archive/readme-v1/technologyImages/node.png"/>
+<img src="archive/readme-v1/technologyImages/express.png"/>
+<img src="archive/readme-v1/technologyImages/mongo.png"/>
+<img src="archive/readme-v1/technologyImages/firebase.png"/>
 </p>
 <p align="center">
-<img src="technologyImages/redux.png"/>
-<img src="technologyImages/typescript.png"/>
-<img src="technologyImages/nextjs.png"/>
-<img src="technologyImages/postgresql.png"/>
+<img src="archive/readme-v1/technologyImages/redux.png"/>
+<img src="archive/readme-v1/technologyImages/typescript.png"/>
+<img src="archive/readme-v1/technologyImages/nextjs.png"/>
+<img src="archive/readme-v1/technologyImages/postgresql.png"/>
 </p><br/>
 
 ## :chart_with_upwards_trend: Current Stats
