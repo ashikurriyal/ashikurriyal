@@ -97,6 +97,9 @@
   </tr>
 </table>
 
-## :eyes: Current Overview
+## :zap: Right Now
 
-### 🌱 I'm exploring - Prisma ORM, NEST js
+<p align="center">
+  <img src="assets/now/now.svg" width="416" alt="Right now: Frontend Engineer at Luminar Technology since Jul 2025, Dhaka, Bangladesh. Building production web apps with React, Next.js and TypeScript, from pixel-perfect UI to the APIs behind it." />
+  <img src="assets/now/learning.svg" width="416" alt="Learning: NestJS, AWS and Claude Code (exploring); GSAP for motion design (practising)." />
+</p>
