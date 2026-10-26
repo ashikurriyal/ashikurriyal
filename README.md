@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/riyalashikur" target="_blank">
-  <img src="archive/readme-v1/cover/FinalCovers/github-cover-v2.svg" width="100%" alt="Ashikur Riyal" />
+  <img src="assets/hero/cover.svg" width="100%" alt="Molla Ashikur Rahman — Frontend Engineer" />
 </a>
 
 </div>
