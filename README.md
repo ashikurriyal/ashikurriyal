@@ -79,20 +79,20 @@
   <img src="assets/stack/postman.svg" width="76" alt="Postman" />
 </p>
 
-## :chart_with_upwards_trend: Current Stats
+## :bar_chart: GitHub Stats
 
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=ashikurriyal&theme=default&hide_border=true&background=0D1117&stroke=0D1117&ring=EE0097&fire=EE0097&currStreakNum=EE0097&currStreakLabel=EE0097&sideLabels=57ffdc&sideNums=57ffdc&dates=57ffdc" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=ashikurriyal&theme=default&hide_border=true&background=021716&stroke=021716&ring=2DD4BF&fire=22D3EE&currStreakNum=2DD4BF&currStreakLabel=2DD4BF&sideLabels=CCFBF1&sideNums=F0FDFA&dates=7FB8B0" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashikurriyal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EE0097&icon_color=EE0097&text_color=57ffdc" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ashikurriyal&show_icons=true&hide_border=true&bg_color=021716&title_color=2DD4BF&icon_color=2DD4BF&text_color=CCFBF1" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurriyal&layout=compact&hide_border=true&bg_color=0D1117&title_color=EE0097&text_color=57ffdc" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurriyal&layout=compact&hide_border=true&bg_color=021716&title_color=2DD4BF&text_color=CCFBF1" alt="Top Languages" />
     </td>
   </tr>
 </table>
