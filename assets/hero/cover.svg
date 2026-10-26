@@ -198,20 +198,20 @@
     <style>
         text { font-family: 'Inter', 'Geist', 'Manrope', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
-        .deep { animation: deepCycle 16s ease-in-out infinite; }
-        .wave { animation: waveCycle 16s ease-in-out infinite; }
-        .hi   { animation: hiCycle   16s ease-in-out infinite; }
-        .amb  { animation: ambCycle  16s ease-in-out infinite; }
+        .deep { animation: deepCycle 10s ease-in-out infinite; }
+        .wave { animation: waveCycle 10s ease-in-out infinite; }
+        .hi   { animation: hiCycle   10s ease-in-out infinite; }
+        .amb  { animation: ambCycle  10s ease-in-out infinite; }
 
         /* each layer drifts on its own amplitude and phase, so the field deforms
            instead of sliding as one rigid object */
-        .driftDeep { animation: driftDeep 16s ease-in-out infinite; }
-        .driftA    { animation: driftA    16s ease-in-out infinite; }
-        .driftB    { animation: driftB    16s ease-in-out infinite; }
-        .driftHiA  { animation: driftHiA  16s ease-in-out infinite; }
-        .driftHiB  { animation: driftHiB  16s ease-in-out infinite; }
+        .driftDeep { animation: driftDeep 10s ease-in-out infinite; }
+        .driftA    { animation: driftA    10s ease-in-out infinite; }
+        .driftB    { animation: driftB    10s ease-in-out infinite; }
+        .driftHiA  { animation: driftHiA  10s ease-in-out infinite; }
+        .driftHiB  { animation: driftHiB  10s ease-in-out infinite; }
 
-        /* 16s non-linear breathing loop:
+        /* 10s non-linear breathing loop:
            0-15% slow emergence · 15-40% accelerating rise · 40-68% long restrained
            plateau · 68-94% slow dissolution · 94-100% near-black hold */
         @keyframes waveCycle {
